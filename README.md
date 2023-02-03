@@ -21,9 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavpuram27&show_icons=true&locale=en&layout=compact" alt="vaishnavpuram27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavpuram27&show_icons=true&locale=en" alt="vaishnavpuram27" /></p>
-
-
-
-[<img src="https://v2.speedtyper.dev/users/vaishnavpuram27/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/vaishnavpuram27) 
-[<img src="https://v2.speedtyper.dev/users/vaishnavpuram27/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/vaishnavpuram27) 
-[<img src="https://v2.speedtyper.dev/users/vaishnavpuram27/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/vaishnavpuram27)
